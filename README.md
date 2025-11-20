@@ -42,34 +42,34 @@ This project demonstrates how to deploy and configure an **Active Directory (AD)
 ## 🧩 Configuration Steps & Screenshots
 
 ### 1. Created Virtual Machine (Domain Controller)
-![Created Virtual Machine DC](ActiveDirectoryLab/screenshots/created_virtual_machine_DC.png.png)
+![Created Virtual Machine DC](Screenshots/created_virtual_machine_DC.png.png)
 
 ### 2. Configured Network Interface Cards (NICs)
-![Configured NICs](ActiveDirectoryLab/screenshots/configured_NICs.PNG.png)
+![Configured NICs](Screenshots/configured_NICs.PNG.png)
 
 ### 3. Set Static IP on Internal Network
-![Set Static IP](ActiveDirectoryLab/screenshots/set_static_on_internal_network.png.png)
+![Set Static IP](Screenshots/set_static_on_internal_network.png.png)
 
 ### 4. Enabled Active Directory, DNS, and NAT
-![Enabled AD and NAT](ActiveDirectoryLab/screenshots/enabled_AD_and_NAT.png.png)
+![Enabled AD and NAT](Screenshots/enabled_AD_and_NAT.png.png)
 
 ### 5. Created Organizational Unit (OU) and Added Admin User
-![Created OU](ActiveDirectoryLab/screenshots/created_OU_in_AD_and_added_user_to_admin.png.png)
+![Created OU](Screenshots/created_OU_in_AD_and_added_user_to_admin.png.png)
 
 ### 6. Installed DHCP
-![Installed DHCP](ActiveDirectoryLab/screenshots/installed_DHCP.png.png)
+![Installed DHCP](Screenshots/installed_DHCP.png.png)
 
 ### 7. Configured IPv4 Scope in DHCP
-![Set IPv4 Scope](ActiveDirectoryLab/screenshots/set_IPv4_scope.png.png)
+![Set IPv4 Scope](Screenshots/set_IPv4_scope.png.png)
 
 ### 8. Created Users via PowerShell Script
-![Created Users](ActiveDirectoryLab/screenshots/created_users_from_script.png.png)
+![Created Users](Screenshots/created_users_from_script.png.png)
 
 ### 9. Created Client VM
-![Created Client VM](ActiveDirectoryLab/screenshots/created_client_VM.png.png)
+![Created Client VM](Screenshots/created_client_VM.png.png)
 
 ### 10. Joined Client to Domain
-![Joined Client to Domain](ActiveDirectoryLab/screenshots/joined_client_to_domain.png.png)
+![Joined Client to Domain](Screenshots/joined_client_to_domain.png.png)
 
 ---
 
